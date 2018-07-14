@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/RonyVidaur/vanilla-backend#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.3"
   }
 }
