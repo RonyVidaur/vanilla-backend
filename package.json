@@ -1,0 +1,28 @@
+{
+  "name": "vanilla-backend",
+  "version": "1.0.0",
+  "description": "backend for vanilla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonyVidaur/vanilla-backend.git"
+  },
+  "keywords": [
+    "backend",
+    "vanilla",
+    "node",
+    "express"
+  ],
+  "author": "Rony Vidaur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RonyVidaur/vanilla-backend/issues"
+  },
+  "homepage": "https://github.com/RonyVidaur/vanilla-backend#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
